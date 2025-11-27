@@ -256,7 +256,7 @@ Zones structurées selon les VLANs
 
 🗺️ 6. Diagramme
 
-![Network Architecture](sentryx_architecture.png)
+
 
 
 ---
