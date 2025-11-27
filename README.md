@@ -127,9 +127,7 @@ Organized by network segments:
 
 🗺️ 6. Network Diagram
 
-![Network Architecture](sentryx_architecture.png)
 
-(Replace with your final diagram)
 
 
 ---
