@@ -1,10 +1,3 @@
-Perfect.
-Here is the final README.md in pure Markdown, clean, beautiful, bilingual, emoji-enhanced, ready to paste directly into GitHub as-is.
-No HTML, no extra formatting — 100% Markdown.
-
-
----
-
 🥷✨ KASUMURA PROJECT
 
 Domain: kasumura.clan
