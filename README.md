@@ -20,7 +20,6 @@ Homura's storm breaks.
 
 🚀 Technologies & Badges
 
-        for the README.md dont forget to add all my badges :   
 ![Fedora 43](https://img.shields.io/badge/Fedora-43-294172?logo=fedora&logoColor=white)  
 ![openSUSE Tumbleweed (Research VM)](https://img.shields.io/badge/openSUSE_Tumbleweed-Research%20VM-73ba25?logo=opensuse&logoColor=white)  
 ![KVM / QEMU](https://img.shields.io/badge/KVM%20%2F%20QEMU-Virtualization-333333?logo=qemu&logoColor=white)  
